@@ -2627,8 +2627,8 @@ Caused by: java.lang.IllegalArgumentException
 [22:11:15] [Client thread/DEBUG] [FML/]: No mcmod.info file found in directory MC-17-Light-Source-Mod
 [22:11:15] [Client thread/TRACE] [FML/]: Recursing into package com
 [22:11:15] [Client thread/TRACE] [FML/]: Recursing into package com.Tycell
-[22:11:15] [Client thread/TRACE] [FML/]: Recursing into package com.Tycell.LightSourcesMod
-[22:11:15] [Client thread/DEBUG] [FML/]: Identified an FMLMod type mod com.Tycell.LightSourcesMod.LightSourcesMod
+[22:11:15] [Client thread/TRACE] [FML/]: Recursing into package com.Tycell.lightsourcesmod
+[22:11:15] [Client thread/DEBUG] [FML/]: Identified an FMLMod type mod com.Tycell.lightsourcesmod.LightSourcesMod
 [22:11:15] [Client thread/TRACE] [LightSourcesMod/]: Parsed dependency info : [] [] []
 [22:11:15] [Client thread/DEBUG] [FML/]: Examining file forgeSrc-1.7.2-10.12.2.1121.jar for potential mods
 [22:11:15] [Client thread/DEBUG] [FML/]: The mod container forgeSrc-1.7.2-10.12.2.1121.jar appears to be missing an mcmod.info file

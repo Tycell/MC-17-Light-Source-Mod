@@ -2627,7 +2627,7 @@ Caused by: java.lang.IllegalArgumentException
 [21:56:36] [Client thread/DEBUG] [FML/]: No mcmod.info file found in directory MC-17-Light-Source-Mod
 [21:56:36] [Client thread/TRACE] [FML/]: Recursing into package com
 [21:56:36] [Client thread/TRACE] [FML/]: Recursing into package com.Tycell
-[21:56:36] [Client thread/TRACE] [FML/]: Recursing into package com.Tycell.LightSourcesMod
+[21:56:36] [Client thread/TRACE] [FML/]: Recursing into package com.Tycell.lightsourcesmod
 [21:56:36] [Client thread/ERROR] [FML/]: Unable to read a class file correctly
 java.lang.IllegalArgumentException
 	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:170) ~[asm-debug-all-4.1.jar:4.1]

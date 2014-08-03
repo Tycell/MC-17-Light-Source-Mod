@@ -18,8 +18,8 @@ buildscript {
 apply plugin: 'forge'
 
 version = "1.7.1-1.0"
-group= "com.Tycell.LightSourcesMod" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "LightSourcesMod"
+group= "com.Tycell.lightsourcesmod" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "lightsourcesmod"
 
 minecraft {
     version = "1.7.2-10.12.2.1121"
